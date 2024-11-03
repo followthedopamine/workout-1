@@ -1,3 +1,4 @@
+| Date | Exercise |
 | ---------- | ------------ |
 | 24/10/2024 | Incline Barbell Bench Press (37.5kg) 13, 6, 5 |
 | 24/10/2024 | Barbell Shoulder Press (25kg, 22.5kg) 5, 5, 4 |
@@ -16,6 +17,8 @@
 | 25/10/2024 | Wall bicep stretch left and right 30s |
 | 25/10/2024 | Child's pose 30s |
 | 25/10/2024 | Cat/cow 30s |
+
+| Date | Exercise |
 | ---------- | ------------ |
 | 04/11/2024 | Incline Barbell Bench Press (37.5kg) 15, 7, 4 |
 | 04/11/2024 | Barbell Shoulder Press (22.5kg) 6, 5, 4 |
