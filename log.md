@@ -1,3 +1,4 @@
+| ---------- | ------------ |
 | 24/10/2024 | Incline Barbell Bench Press (37.5kg) 13, 6, 5 |
 | 24/10/2024 | Barbell Shoulder Press (25kg, 22.5kg) 5, 5, 4 |
 | 24/10/2024 | Dumbbell Flyes (7.5kg) 16, 7 |
