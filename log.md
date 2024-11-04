@@ -9,6 +9,9 @@
 | 24/10/2024 | Overhead triceps stretch 30s |
 | 24/10/2024 | Doorway chest stretch 30s |
 | 24/10/2024 | Kneeling one arm cross body stretch 30s |
+
+| Date | Exercise |
+| ---------- | ------------ |
 | 25/10/2024 | Barbell Deadlifts (37.5kg) 11, 8, 5 |
 | 25/10/2024 | Bent-over Dumbbell Rows (20kg) 10R 10L, 5R 5L, 5R 5L |
 | 25/10/2024 | Dumbbell Hammer Curls (12.5kg) 7, 3.5, 2.5 |
@@ -37,3 +40,21 @@
 | 04/11/2024 | Wall bicep stretch left and right 30s |
 | 04/11/2024 | Child's pose 30s |
 | 04/11/2024 | Cat/cow 30s |
+
+| Date | Exercise |
+| ---------- | ------------ |
+| 05/11/2024 | Mountain climbers (warmup next week) (last core workout was 04/06) |
+| 05/11/2024 | Barbell Calf Raises (37.5kg) 20, 16, 12 |
+| 05/11/2024 | Barbell Sumo Squats (25kg) 12, 7, 6 |
+| 05/11/2024 | Dumbbell Lunges (7.5kg) 12, 10, 8 |
+| 05/11/2024 | Dumbbell Step-ups (next week) |
+| 05/11/2024 | Calf stretch on wall 30s each side |
+| 05/11/2024 | Standing Hamstring stretch 30s each side |
+| 05/11/2024 | Russian twists (7.5kg) 12, 10, 6 |
+| 05/11/2024 | Leg raises 4 I hate leg raises |
+| 05/11/2024 | Crunches 7, 4, 3 |
+| 05/11/2024 | Standard plank 43s |
+| 05/11/2024 | Side plank L20s R23s |
+| 05/11/2024 | Plank with shoulder taps (next week? why? instead of standard plank?) |
+| 05/11/2024 | Cobra pose 30s  |
+| 05/11/2024 | Child pose 30s  |
