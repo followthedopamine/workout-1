@@ -58,3 +58,23 @@
 | 05/11/2024 | Plank with shoulder taps (next week? why? instead of standard plank?) |
 | 05/11/2024 | Cobra pose 30s  |
 | 05/11/2024 | Child pose 30s  |
+
+| Date | Exercise |
+| ---------- | ------------ |
+| 10/11/2024 | Incline Barbell Bench Press (37.5kg) 15, 7, 4 |
+| 10/11/2024 | Barbell Deadlifts (37.5kg) 10, 7, 5 |
+| 10/11/2024 | Barbell Shoulder Press (22.5kg) 10, 5, 4 |
+| 10/11/2024 | Barbell Skullcrushers (15kg) 14,  difficulty breathing --- |
+| 10/11/2024 | Dumbbell Flyes (7.5kg) 16, 6, 4 |
+| 10/11/2024 | Bent-over Dumbbell Rows (20kg) 7R 7L, 6R 6L, 4R 4L |
+| 10/11/2024 | Dumbbell Lateral Raises (5kg) 9, 6, 5 |
+| 10/11/2024 | Dumbbell Hammer Curls (10kg) 9, 5, 3.5 |
+| 10/11/2024 | Reverse Flyes (5kg) 7, 5, 5 |
+| 10/11/2024 | Push-ups 3 |
+| 10/11/2024 | Kneeling one arm cross body stretch 30s |
+| 10/11/2024 | Standing cross body shoulder stretch 30s |
+| 10/11/2024 | Wall bicep stretch left and right 30s |
+| 10/11/2024 | Child's pose 30s |
+| 10/11/2024 | Cat/cow 30s |
+| 10/11/2024 | Overhead triceps stretch 30s |
+| 10/11/2024 | Doorway chest stretch 30s |
