@@ -84,13 +84,13 @@
 | 12/11/2024 | Incline Barbell Bench Press (37.5kg) 11, 7, 5 |
 | 12/11/2024 | Barbell Deadlifts (37.5kg) 8, 6, 4 |
 | 12/11/2024 | Barbell Shoulder Press (22.5kg) 10, 6, 5 |
-| 12/11/2024 | Barbell Skullcrushers (17.25kg) 14,  |
-| 12/11/2024 | Bent-over Barbell Rows (20kg) 7R 7L, 6R 6L, 4R 4L |
-| 12/11/2024 | Dumbbell Flyes (7.5kg) 16, 6, 4 |
-| 12/11/2024 | Dumbbell Lateral Raises (5kg) 9, 6, 5 |
-| 12/11/2024 | Dumbbell Hammer Curls (10kg) 9, 5, 3.5 |
-| 12/11/2024 | Reverse Flyes (5kg) 7, 5, 5 |
-| 12/11/2024 | Push-ups 3 |
+| 12/11/2024 | Barbell Skullcrushers (17.25kg) 8, 6, 5 |
+| 12/11/2024 | Bent-over Barbell Rows (20kg) 10, 7, 6 |
+| 12/11/2024 | Dumbbell Lateral Raises (5kg) 11, 7, 6 |
+| 12/11/2024 | Reverse Flyes (5kg) 5, 5, 4 |
+| 12/11/2024 | Dumbbell Flyes (7.5kg) 8, 6, 4 |
+| 12/11/2024 | Dumbbell Hammer Curls (10kg) 11, 6, 4 |
+| 12/11/2024 | Push-ups 7 |
 | 12/11/2024 | Kneeling one arm cross body stretch 30s |
 | 12/11/2024 | Standing cross body shoulder stretch 30s |
 | 12/11/2024 | Wall bicep stretch left and right 30s |
@@ -98,3 +98,20 @@
 | 12/11/2024 | Cat/cow 30s |
 | 12/11/2024 | Overhead triceps stretch 30s |
 | 12/11/2024 | Doorway chest stretch 30s |
+
+| Date | Exercise |
+| ---------- | ------------ |
+| 13/11/2024 | Mountain climbers 57 |
+| 13/11/2024 | Barbell Calf Raises (37.5kg) 22, 18, 14 |
+| 13/11/2024 | Barbell Sumo Squats (25kg) 14, 9, 8 |
+| 13/11/2024 | Dumbbell Lunges (7.5kg) 14, 12, 10 |
+| 13/11/2024 | Dumbbell Step-ups (next next week) |
+| 13/11/2024 | Russian twists (7.5kg) 14, 12, 10 |
+| 13/11/2024 | Crunches 9, 6, 4 (this is such a lie my form is just random) |
+| 13/11/2024 | Side plank L29s R35s |
+| 13/11/2024 | Plank with shoulder taps 20 |
+| 13/11/2024 | Leg raises 7 |
+| 13/11/2024 | Calf stretch on wall 30s each side |
+| 13/11/2024 | Standing Hamstring stretch 30s each side |
+| 13/11/2024 | Cobra pose 30s  |
+| 13/11/2024 | Child pose 30s  |
