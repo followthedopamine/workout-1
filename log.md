@@ -115,3 +115,21 @@
 | 13/11/2024 | Standing Hamstring stretch 30s each side |
 | 13/11/2024 | Cobra pose 30s  |
 | 13/11/2024 | Child pose 30s  |
+
+| Date | Exercise |
+| ---------- | ------------ |
+| 17/11/2024 | Mountain climbers 60 |
+| 17/11/2024 | Barbell Calf Raises (37.5kg) 23, 19, 15 |
+| 17/11/2024 | Barbell Sumo Squats (27.5kg) 10, 8, 6 |
+| 17/11/2024 | Dumbbell Lunges (10kg) 10, 8, 6 |
+| 17/11/2024 | Dumbbell Step-ups (next next next week) |
+| 17/11/2024 | vvvvv Didn't finish vvvvv |
+| 17/11/2024 | Russian twists (10kg next week) 14, 12, 10 |
+| 17/11/2024 | Crunches 9, 6, 4 |
+| 17/11/2024 | Side plank L29s R35s |
+| 17/11/2024 | Plank with shoulder taps 20 |
+| 17/11/2024 | Leg raises 7 |
+| 17/11/2024 | Calf stretch on wall 30s each side |
+| 17/11/2024 | Standing Hamstring stretch 30s each side |
+| 17/11/2024 | Cobra pose 30s |
+| 17/11/2024 | Child pose 30s |
