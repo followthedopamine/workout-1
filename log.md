@@ -133,3 +133,23 @@
 | 17/11/2024 | Standing Hamstring stretch 30s each side |
 | 17/11/2024 | Cobra pose 30s |
 | 17/11/2024 | Child pose 30s |
+
+| Date | Exercise |
+| ---------- | ------------ |
+| 18/11/2024 | Incline Barbell Bench Press (37.5kg) 12, 8, 6 |
+| 18/11/2024 | Barbell Deadlifts (37.5kg) 10, 8, 6 |
+| 18/11/2024 | Barbell Shoulder Press (22.5kg) 12, 8, 5 |
+| 18/11/2024 | Bent-over Barbell Rows (20kg) 12, 8, 7 |
+| 18/11/2024 | Barbell Skullcrushers (17.25kg) 10, 8, 6 |
+| 18/11/2024 | Dumbbell Flyes (7.5kg) 10, 8, 6 |
+| 18/11/2024 | Dumbbell Lateral Raises (5kg) 12, 8, 6 |
+| 18/11/2024 | Reverse Flyes (5kg) 6, 6, 5 |
+| 18/11/2024 | Dumbbell Hammer Curls (10kg) 12, 7, 5 |
+| 18/11/2024 | Push-ups 10 |
+| 18/11/2024 | Kneeling one arm cross body stretch 30s |
+| 18/11/2024 | Standing cross body shoulder stretch 30s |
+| 18/11/2024 | Wall bicep stretch left and right 30s |
+| 18/11/2024 | Child's pose 30s |
+| 18/11/2024 | Cat/cow 30s |
+| 18/11/2024 | Overhead triceps stretch 30s |
+| 18/11/2024 | Doorway chest stretch 30s |
