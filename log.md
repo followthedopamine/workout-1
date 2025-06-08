@@ -153,3 +153,18 @@
 | 18/11/2024 | Cat/cow 30s |
 | 18/11/2024 | Overhead triceps stretch 30s |
 | 18/11/2024 | Doorway chest stretch 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 09/06/2025 | Mountain climbers | 50 |
+| 09/06/2025 | Barbell Calf Raises (25kg)  | 22, 17, 16 |
+| 09/06/2025 | Barbell Squats (15kg)  | 13, 10, 9 |
+| 09/06/2025 | Dumbbell Lunges (5kg)  | 12, 12, 8 |
+| 09/06/2025 | Russian twists (5kg) | 18, 12, 12 |
+| 09/06/2025 | Crunches | 8, 4, 3 |
+| 09/06/2025 | Side plank | L32s R35s |
+| 09/06/2025 | Leg raises | 9, 6, 4 |
+| 09/06/2025 | Calf stretch on wall  | 30s each side |
+| 09/06/2025 | Standing Hamstring stretch  | 30s each side |
+| 09/06/2025 | Cobra pose | 30s |
+| 09/06/2025 | Child pose | 30s |
