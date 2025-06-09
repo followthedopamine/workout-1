@@ -168,3 +168,14 @@
 | 09/06/2025 | Standing Hamstring stretch  | 30s each side |
 | 09/06/2025 | Cobra pose | 30s |
 | 09/06/2025 | Child pose | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 10/06/2025 | Barbell Deadlifts (20kg) | 14, 10, 9 |
+| 10/06/2025 | Barbell Bent-over Rows (20kg) | 8, 7, 5 |
+| 10/06/2025 | Dumbbell Hammer Curls (5kg) | 12, 9, 7 |
+| 10/06/2025 | Reverse Flyes (2.5kg) | 12, 7, 6 |
+| 10/06/2025 | Standing cross body shoulder stretch | 30s |
+| 10/06/2025 | Wall bicep stretch left and right | 30s |
+| 10/06/2025 | Child's pose | 30s |
+| 10/06/2025 | Cat/cow | 30s |
