@@ -179,3 +179,15 @@
 | 10/06/2025 | Wall bicep stretch left and right | 30s |
 | 10/06/2025 | Child's pose | 30s |
 | 10/06/2025 | Cat/cow | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 11/06/2025 | Incline Barbell Bench Press (20kg) | 14, 10, 9 |
+| 11/06/2025 | Barbell Shoulder Press (12.5kg) | 9, 8, 7 |
+| 11/06/2025 | Barbell Skullcrushers (10kg) | 10, 10, 10 | (Should be in arms)
+| 11/06/2025 | Dumbbell Lateral Raises (2.5kg) | 13, 8, 8 |
+| 11/06/2025 | Dumbbell Flyes (5kg) | 14, 9, 10 |
+| 11/06/2025 | Push-ups | 4 |
+| 11/06/2025 | Kneeling one arm cross body stretch | 30s |
+| 11/06/2025 | Overhead triceps stretch | 30s |
+| 11/06/2025 | Doorway chest stretch | 30s |
