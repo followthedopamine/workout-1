@@ -191,3 +191,18 @@
 | 11/06/2025 | Kneeling one arm cross body stretch | 30s |
 | 11/06/2025 | Overhead triceps stretch | 30s |
 | 11/06/2025 | Doorway chest stretch | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 16/06/2025 | Mountain climbers | 70 |
+| 16/06/2025 | Barbell Calf Raises (32.5kg)  | 23, 18, 16 |
+| 16/06/2025 | Barbell Squats (20kg)  | 13, 10, 9 |
+| 16/06/2025 | Dumbbell Lunges (5kg)  | 12, 12, 8 |
+| 16/06/2025 | Russian twists (5kg) | 18, 12, 12 |
+| 16/06/2025 | Crunches | 8, 4, 3 |
+| 16/06/2025 | Side plank | L32s R35s |
+| 16/06/2025 | Leg raises | 9, 6, 4 |
+| 16/06/2025 | Calf stretch on wall  | 30s each side |
+| 16/06/2025 | Standing Hamstring stretch  | 30s each side |
+| 16/06/2025 | Cobra pose | 30s |
+| 16/06/2025 | Child pose | 30s |
