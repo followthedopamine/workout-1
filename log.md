@@ -184,7 +184,7 @@
 | ---------- | ------------ | ---- |
 | 11/06/2025 | Incline Barbell Bench Press (20kg) | 14, 10, 9 |
 | 11/06/2025 | Barbell Shoulder Press (12.5kg) | 9, 8, 7 |
-| 11/06/2025 | Barbell Skullcrushers (10kg) | 10, 10, 10 | (Should be in arms)
+
 | 11/06/2025 | Dumbbell Lateral Raises (2.5kg) | 13, 8, 8 |
 | 11/06/2025 | Dumbbell Flyes (5kg) | 14, 9, 10 |
 | 11/06/2025 | Push-ups | 4 |
@@ -206,3 +206,16 @@
 | 16/06/2025 | Standing Hamstring stretch  | 30s each side |
 | 16/06/2025 | Cobra pose | 30s |
 | 16/06/2025 | Child pose | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 17/06/2025 | Barbell Deadlifts (27.5kg) | 12, 9, 10 |
+| 17/06/2025 | Barbell Bent-over Rows (20kg) | 10, 10, 7 |
+| 17/06/2025 | Dumbbell Hammer Curls (7.5kg) | 8, 8, 6 |
+| 17/06/2025 | Dumbbell Pullovers (7.5kg) | 12, 12, 16
+| 17/06/2025 | Barbell Skullcrushers (10kg) | 10, 10, 10 |
+| 17/06/2025 | Reverse Flyes (5kg no bar) | 8, 8, 6 |
+| 17/06/2025 | Standing cross body shoulder stretch | 30s |
+| 17/06/2025 | Wall bicep stretch left and right | 30s |
+| 17/06/2025 | Child's pose | 30s |
+| 17/06/2025 | Cat/cow | 30s |
