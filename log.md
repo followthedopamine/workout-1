@@ -230,3 +230,16 @@
 | 18/06/2025 | Kneeling one arm cross body stretch | 30s |
 | 18/06/2025 | Overhead triceps stretch | 30s |
 | 18/06/2025 | Doorway chest stretch | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 24/06/2025 | Barbell Deadlifts (32.5kg) | 10, 10, 13 |
+| 24/06/2025 | Barbell Bent-over Rows (22.5kg) | 8, 7, 6 |
+| 24/06/2025 | Dumbbell Hammer Curls (7.5kg) | 9, 7, 5 |
+| 24/06/2025 | Dumbbell Pullovers (12.5kg) | 9, 9, 10
+| 24/06/2025 | Barbell Skullcrushers (12.5kg) | 10, 10, 11 |
+| 24/06/2025 | Reverse Flyes (5kg no bar) | 8, 8, 8 |
+| 24/06/2025 | Standing cross body shoulder stretch | 30s |
+| 24/06/2025 | Wall bicep stretch left and right | 30s |
+| 24/06/2025 | Child's pose | 30s |
+| 24/06/2025 | Cat/cow | 30s |
