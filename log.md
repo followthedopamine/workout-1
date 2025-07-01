@@ -265,5 +265,16 @@
 | 01/07/2025 | Reverse Flyes (5kg no bar) | 10, 10, 8 |
 | 01/07/2025 | Standing cross body shoulder stretch | 30s |
 | 01/07/2025 | Wall bicep stretch left and right | 30s |
+| 02/07/2025 | Overhead triceps stretch | 30s |
 | 01/07/2025 | Child's pose | 30s |
 | 01/07/2025 | Cat/cow | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 02/07/2025 | Incline Barbell Bench Press (35kg) | 9, 9, 7 |
+| 02/07/2025 | Barbell Shoulder Press (17.5kg) | 10, 9, 8 |
+| 02/07/2025 | Dumbbell Lateral Raises (5kg no bar) | 11, 10, 9 |
+| 02/07/2025 | Dumbbell Flyes (7.5kg) | 10, 9, 8 |
+| 02/07/2025 | Push-ups | 10 |
+| 02/07/2025 | Kneeling one arm cross body stretch | 30s |
+| 02/07/2025 | Doorway chest stretch | 30s |
