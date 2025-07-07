@@ -265,7 +265,7 @@
 | 01/07/2025 | Reverse Flyes (5kg no bar) | 10, 10, 8 |
 | 01/07/2025 | Standing cross body shoulder stretch | 30s |
 | 01/07/2025 | Wall bicep stretch left and right | 30s |
-| 02/07/2025 | Overhead triceps stretch | 30s |
+| 01/07/2025 | Overhead triceps stretch | 30s |
 | 01/07/2025 | Child's pose | 30s |
 | 01/07/2025 | Cat/cow | 30s |
 
@@ -293,3 +293,17 @@
 | 07/07/2025 | Standing Hamstring stretch  | 30s each side |
 | 07/07/2025 | Cobra pose | 30s |
 | 07/07/2025 | Child pose | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 08/07/2025 | Barbell Deadlifts (37.5kg) | 10, 10, 10 |
+| 08/07/2025 | Barbell Bent-over Rows (22.5kg) | 10, 10, 10 |
+| 08/07/2025 | Dumbbell Hammer Curls (7.5kg) | 10, 10, 10 |
+| 08/07/2025 | Dumbbell Pullovers (15kg) | 12, 12, 12
+| 08/07/2025 | Barbell Skullcrushers (17.5kg) | 8, 8, 11 |
+| 08/07/2025 | Bent Over Reverse Flyes (5kg) | 10, 10, 8 |
+| 08/07/2025 | Standing cross body shoulder stretch | 30s |
+| 08/07/2025 | Wall bicep stretch left and right | 30s |
+| 08/07/2025 | Overhead triceps stretch | 30s |
+| 08/07/2025 | Child's pose | 30s |
+| 08/07/2025 | Cat/cow | 30s |
