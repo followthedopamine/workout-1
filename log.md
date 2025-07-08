@@ -301,9 +301,19 @@
 | 08/07/2025 | Dumbbell Hammer Curls (7.5kg) | 10, 10, 10 |
 | 08/07/2025 | Dumbbell Pullovers (15kg) | 12, 12, 12
 | 08/07/2025 | Barbell Skullcrushers (17.5kg) | 8, 8, 11 |
-| 08/07/2025 | Bent Over Reverse Flyes (5kg) | 10, 10, 8 |
+| 08/07/2025 | Bent Over Reverse Flyes (5kg no bar) | 8, 8, 7 |
 | 08/07/2025 | Standing cross body shoulder stretch | 30s |
 | 08/07/2025 | Wall bicep stretch left and right | 30s |
 | 08/07/2025 | Overhead triceps stretch | 30s |
 | 08/07/2025 | Child's pose | 30s |
 | 08/07/2025 | Cat/cow | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 09/07/2025 | Incline Barbell Bench Press (37.5kg) | 8, 8, 4 |
+| 09/07/2025 | Barbell Shoulder Press (20kg) | 8, 8, 7 |
+| 09/07/2025 | Incline Dumbbell Flyes (7.5kg) | 10, 10, 11 |
+| 09/07/2025 | Dumbbell Lateral Raises (5kg) | 8, 8, 7 |
+| 09/07/2025 | Push-ups | 9 |
+| 09/07/2025 | Kneeling one arm cross body stretch | 30s |
+| 09/07/2025 | Doorway chest stretch | 30s |
