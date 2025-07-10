@@ -317,3 +317,18 @@
 | 09/07/2025 | Push-ups | 9 |
 | 09/07/2025 | Kneeling one arm cross body stretch | 30s |
 | 09/07/2025 | Doorway chest stretch | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 11/07/2025 | Mountain climbers | 50 |
+| 11/07/2025 | Barbell Calf Raises (37.5kg)  | 25, 14, 14 |
+| 11/07/2025 | Barbell Squats (27.5kg)  | 9, 9, 9 |
+| 11/07/2025 | Dumbbell Lunges (10kg) (each side) | 6, 6, 6 |
+| 11/07/2025 | Russian twists (10kg) (each side) | 9, 9, 9 |
+| 11/07/2025 | Crunches | 8, 7, 5 |
+| 11/07/2025 | Side plank | L50s R50s |
+| 11/07/2025 | Leg raises | 7, 7, 6 |
+| 11/07/2025 | Calf stretch on wall  | 30s each side |
+| 11/07/2025 | Standing Hamstring stretch  | 30s each side |
+| 11/07/2025 | Cobra pose | 30s |
+| 11/07/2025 | Child pose | 30s |
