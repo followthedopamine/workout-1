@@ -332,3 +332,17 @@
 | 11/07/2025 | Standing Hamstring stretch  | 30s each side |
 | 11/07/2025 | Cobra pose | 30s |
 | 11/07/2025 | Child pose | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 12/07/2025 | Barbell Deadlifts (37.5kg) | 12, 12, 12 |
+| 12/07/2025 | Barbell Bent-over Rows (22.5kg) (gentle for injury) | 6, 6, 6 |
+| 12/07/2025 | Dumbbell Hammer Curls (7.5kg) | 12, 12, 7 |
+| 12/07/2025 | Barbell Pullovers (15kg) | 8, 8, 8 |
+| 12/07/2025 | Barbell Skullcrushers (17.5kg) | 8, 8, 11 |
+| 12/07/2025 | Bent Over Reverse Flyes (2.5kg) (injury last workout) | 8, 8, 7 |
+| 12/07/2025 | Standing cross body shoulder stretch | 30s |
+| 12/07/2025 | Wall bicep stretch left and right | 30s |
+| 12/07/2025 | Overhead triceps stretch | 30s |
+| 12/07/2025 | Child's pose | 30s |
+| 12/07/2025 | Cat/cow | 30s |
