@@ -339,10 +339,43 @@
 | 12/07/2025 | Barbell Bent-over Rows (22.5kg) (gentle for injury) | 6, 6, 6 |
 | 12/07/2025 | Dumbbell Hammer Curls (7.5kg) | 12, 12, 7 |
 | 12/07/2025 | Barbell Pullovers (15kg) | 8, 8, 8 |
-| 12/07/2025 | Barbell Skullcrushers (17.5kg) | 8, 8, 11 |
+| 12/07/2025 | Barbell Skullcrushers (17.5kg) | 10, 10, 10 |
 | 12/07/2025 | Bent Over Reverse Flyes (2.5kg) (injury last workout) | 8, 8, 7 |
 | 12/07/2025 | Standing cross body shoulder stretch | 30s |
 | 12/07/2025 | Wall bicep stretch left and right | 30s |
 | 12/07/2025 | Overhead triceps stretch | 30s |
 | 12/07/2025 | Child's pose | 30s |
 | 12/07/2025 | Cat/cow | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 13/07/2025 | Incline Barbell Bench Press (37.5kg) | 8, 8, 8 |
+| 13/07/2025 | Barbell Shoulder Press (20kg) | 8, 8, 7 |
+| 13/07/2025 | Incline Dumbbell Flyes (7.5kg) | 12, 12, 12 |
+| 13/07/2025 | Prone Y raises (2.5kg) (first week) | 10, 8, 8 |
+| 13/07/2025 | Dumbbell Lateral Raises (5kg) | 8, 8, 7 |
+| 13/07/2025 | Arnold press (5kg) | 8, 8, 8 |
+| 13/07/2025 | Push-ups | 10 |
+| 13/07/2025 | I just can't be bothered with this this week |
+| 13/07/2025 | Bicycle crunches (first week) | 10, 0, 0 |
+| 13/07/2025 | Crunches (first week) | 0, 0, 0 |
+| 13/07/2025 | Leg raises (first week) | 0, 0, 0 |
+| 13/07/2025 | Plank (first week) | 0s |
+| 13/07/2025 | I just can't be bothered with this this week |
+| 13/07/2025 | Kneeling one arm cross body stretch | 30s |
+| 13/07/2025 | Doorway chest stretch | 30s |
+
+| Date | Exercise | Sets |
+| ---------- | ------------ | ---- |
+| 15/07/2025 | Mountain climbers | 80 |
+| 15/07/2025 | Barbell Calf Raises (37.5kg)  | 25, 20, 15 |
+| 15/07/2025 | Barbell Squats (30kg)  | 9, 9, 9 |
+| 15/07/2025 | Dumbbell Lunges (10kg) (each side) | 8, 8, 8 |
+| 15/07/2025 | Russian twists (10kg) (each side) | 10, 10, 10 |
+| 15/07/2025 | Crunches | 9, 9, 9 |
+| 15/07/2025 | Side plank | L60s R60s |
+| 15/07/2025 | Leg raises | 8, 8, 8 |
+| 15/07/2025 | Calf stretch on wall  | 30s each side |
+| 15/07/2025 | Standing Hamstring stretch  | 30s each side |
+| 15/07/2025 | Cobra pose | 30s |
+| 15/07/2025 | Child pose | 30s |
