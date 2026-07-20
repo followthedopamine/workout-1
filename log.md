@@ -431,7 +431,6 @@
 07/06/26 | Light Dumbbell Rows | Bar | 10 reps each side | Controlled motion
 07/06/26 | Pull-ups or Chin-ups | Bodyweight | 1, 1 (3–4 × 6–12) | No swing, chest to bar, full hang
 07/06/26 | Barbell Deadlift or Romanian Deadlift | 15kg | 8, 8, 8 (3 × 5–8) | Brace core, flat back, push floor away
-07/06/26 | Barbell Bent-over Row (OPTIONAL) | [Weight] | 3 × 6–10 | Torso still, pull elbows to hips
 07/06/26 | One-arm Dumbbell Row | 5kg no bar | 10, 10, 10 (3 × 8–12 each side) | Pull to hip, full stretch, no twisting
 07/06/26 | Dumbbell Reverse Flyes | Bar | 10, 10, 10 (3 × 10–15) | Light weight, rear delts only, no shrug
 07/06/26 | Dumbbell Hammer Curls | 2.5kg | 8, 9, 8 (3 × 8–12 each side) | Elbows fixed, no swing, slow lower
