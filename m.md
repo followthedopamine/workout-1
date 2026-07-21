@@ -89,3 +89,20 @@
 20/07/26 | Shoulder cross-body stretch | None | 30–40s each | Keep torso stable
 20/07/26 | Overhead triceps stretch | None | 30–40s each | Elbows close to head
 20/07/26 | Child’s pose | None | 30–40s | Hands stretched forward
+
+| Date | Exercise | Weight | Sets | Form cues |
+| --- | --- | --- | --- | --- |
+21/07/26 | Cat/Cow | None | 10 reps | Slow spinal movement
+21/07/26 | Band Pull-aparts | Band | 10 reps | Squeeze shoulder blades
+21/07/26 | Arm Circles | None | 30s each direction | Loose shoulders
+21/07/26 | Light Dumbbell Rows | Bar | 10 reps each side | Controlled motion
+21/07/26 | Pull-ups or Chin-ups | Bodyweight | 1, 1 (3–4 × 6–12) | No swing, chest to bar, full hang
+21/07/26 | Romanian Deadlift | 15kg | 8, 8, 8 (3 × 5–8) | Brace core, flat back, push floor away
+21/07/26 | One-arm Dumbbell Row | 5kg no bar | 9, 9, 9 (3 × 8–12 each side) | Pull to hip, full stretch, no twisting
+21/07/26 | Dumbbell Reverse Flyes | Bar | 15, 15, 10 (3 × 10–15) | Light weight, rear delts only, no shrug
+21/07/26 | Dumbbell Hammer Curls | 2.5kg | 12, 12, 8 (3 × 8–12 each side) | Elbows fixed, no swing, slow lower
+21/07/26 | Lat Stretch | None | 30–40s each side | Relax shoulder and back
+21/07/26 | Dead Hang / Standing Lat Stretch | None | 30–40s | Shoulders down
+21/07/26 | Child’s Pose | None | 30–40s | Reach forward, relax back
+21/07/26 | Biceps Wall Stretch | None | 30–40s each | Gentle rotation
+21/07/26 | Upper Back Stretch (?) | None | 30–40s | Round upper back
