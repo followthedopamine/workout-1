@@ -50,3 +50,23 @@
 21/07/26 | Child’s Pose | None | 30–40s | Reach forward, relax back
 21/07/26 | Biceps Wall Stretch | None | 30–40s each | Gentle rotation
 21/07/26 | Upper Back Stretch (?) | None | 30–40s | Round upper back
+
+| Date | Exercise | Weight | Sets | Form cues |
+| --- | --- | --- | --- | --- |
+22/07/26 | Bodyweight Squats | Bodyweight | 10–15 reps | Chest up, knees out
+22/07/26 | Hip Circles | None | 10 each direction | Slow controlled movement
+22/07/26 | Glute Bridges | Bodyweight | 10 reps | Squeeze at top
+22/07/26 | Barbell Squats | 5kg | 8, 10, 10 3–4 × 6–10 | Chest up, knees out, control depth
+22/07/26 | Stopped due to injury | | 
+22/07/26 | Dumbbell Lunges | [Weight] | 3 × 8–12 each side | Stable step, upright torso, push through heel
+22/07/26 | Romanian Deadlift | [Weight] | 3 × 6–10 | Hips back, slight knee bend, hamstring stretch
+22/07/26 | Calf Raises | [Weight / Bodyweight] | 4 × 12–20 | Full stretch + squeeze, no bouncing
+22/07/26 | Mountain Climbers | Bodyweight | 2–3 × 30–60 sec | Core tight, no hip sagging
+22/07/26 | Leg Raises | Bodyweight | 3 × 8–15 | No swinging, slow controlled reps
+22/07/26 | Russian Twists | Bodyweight / Dumbbell | 3 × 10–20 each side | Rotate controlled, no momentum
+22/07/26 | Side Plank | Bodyweight | 2–3 × 30–60 sec | Straight body, hips lifted
+22/07/26 | Hamstring Stretch | None | 30–40s each leg | Relax forward fold
+22/07/26 | Quad Stretch | None | 30–40s each leg | Knees close together
+22/07/26 | Calf Stretch | None | 30–40s each | Heel down, full stretch
+22/07/26 | Hip Flexor Stretch | None | 30–40s each | Gentle forward lean
+22/07/26 | Butterfly Stretch | None | 30–40s | Relax hips down
