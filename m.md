@@ -112,6 +112,7 @@
 22/07/26 | Bodyweight Squats | Bodyweight | 10–15 reps | Chest up, knees out
 22/07/26 | Hip Circles | None | 10 each direction | Slow controlled movement
 22/07/26 | Glute Bridges | Bodyweight | 10 reps | Squeeze at top
+22/07/26 | Inner thigh stretch | None | 10 reps | New |
 22/07/26 | Barbell Squats | 5kg | 10, 10, 10 3–4 × 6–10 | Chest up, knees out, control depth
 22/07/26 | Stopped due to injury | | 
 22/07/26 | Dumbbell Lunges | [Weight] | 3 × 8–12 each side | Stable step, upright torso, push through heel
