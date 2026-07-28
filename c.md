@@ -71,3 +71,22 @@
 22/07/26 | Calf Stretch | None | 30–40s each | Heel down, full stretch
 22/07/26 | Hip Flexor Stretch | None | 30–40s each | Gentle forward lean
 22/07/26 | Butterfly Stretch | None | 30–40s | Relax hips down
+
+| Date | Exercise | Weight | Sets | Form cues |
+| --- | --- | --- | --- | --- |
+29/07/26 | Bodyweight Squats | Bodyweight | 10–15 reps | Chest up, knees out
+29/07/26 | Hip Circles | None | 10 each direction | Slow controlled movement
+29/07/26 | Glute Bridges | Bodyweight | 10 reps | Squeeze at top
+29/07/26 | Inner thigh stretch | None | 10 reps | New |
+29/07/26 | Barbell Squats | 2.5kg | 6, 6, 6 3–4 × 6–10 | Chest up, knees out, control depth
+29/07/26 | Dumbbell Lunges | bar + 2 cloggers | 8, 8, 8 3 × 8–12 each side | Stable step, upright torso, push through heel
+29/07/26 | Romanian Deadlift | 2.5kg | 8, 7, 7 3 × 6–10 | Hips back, slight knee bend, hamstring stretch
+29/07/26 | Calf Raises | 2.5kg | 18, 13, 15  4 × 12–20 | Full stretch + squeeze, no bouncing
+29/07/26 | Leg Raises | Bodyweight | 8, 8, 8 3 × 8–15 | No swinging, slow controlled reps
+29/07/26 | Russian Twists | Bodyweight / Dumbbell | 8, 10, 10 3 × 10–20 each side | Rotate controlled, no momentum
+29/07/26 | Side Plank | Bodyweight | 2–3 × 30–60 sec | Straight body, hips lifted
+29/07/26 | Hamstring Stretch | None | 30–40s each leg | Relax forward fold
+29/07/26 | Quad Stretch | None | 30–40s each leg | Knees close together
+29/07/26 | Calf Stretch | None | 30–40s each | Heel down, full stretch
+29/07/26 | Hip Flexor Stretch | None | 30–40s each | Gentle forward lean
+29/07/26 | Butterfly Stretch | None | 30–40s | Relax hips down
