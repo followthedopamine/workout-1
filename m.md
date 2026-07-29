@@ -146,3 +146,21 @@
 29/07/26 | Calf Stretch | None | 30–40s each | Heel down, full stretch
 29/07/26 | Hip Flexor Stretch | None | 30–40s each | Gentle forward lean
 29/07/26 | Butterfly Stretch | None | 30–40s | Relax hips down
+
+| Date | Exercise | Weight | Sets (Aim for) | Form cues |
+| --- | --- | --- | --- | --- |
+30/07/26 | Arm Circles | None | 30s each direction | Keep shoulders relaxed
+30/07/26 | Wall Slides | None | 10 reps | Controlled shoulder movement
+30/07/26 | Knee Push-ups (light) | Bodyweight | (10 reps) | Full range, controlled tempo
+30/07/26 | Band Pull-aparts / Light Reverse Flyes | Band / Light Dumbbells | 10 reps | Squeeze shoulder blades
+30/07/26 | Incline Bench Press (comp) | 25kg | 8, 8, 8 (3–4 × 6–10) | Shoulders back, controlled lower, press smooth
+30/07/26 | Barbell Overhead Press (comp) | 10kg | 8, 8, 8 (3 × 6–10) | Core tight, no lean back, bar straight up
+30/07/26 | Dumbbell Flyes (iso) | 5kg | (SKIPPED FOR TIME) 10, 10, 10 (3 × 8–12) | Big chest stretch, slight elbow bend, slow control
+30/07/26 | Dumbbell Lateral Raises (iso) | 2.5kg | 10, 10, 10 (3 × 12–20) | Elbows lead, no shrugging, stop at shoulder height
+30/07/26 | Close-grip Bench Press (iso) | (SKIPPED FOR TIME) 7.5kg, 10kg | 10, 10, 10 (2–3 × 6–10) | Elbows tucked, wrists stacked, triceps drive
+30/07/26 | Dumbbell Overhead Triceps Extension | 5kg | 10, 10, 10 3 × 10–15 | Elbows fixed, full stretch behind head
+30/07/26 | Push-ups (near failure) | Bodyweight | (SKIPPED FOR TIME) 6, 4 (2 sets) | Straight body, full depth, controlled reps
+30/07/26 | Chest doorway stretch | None | 30–40s each | Relax into stretch
+30/07/26 | Shoulder cross-body stretch | None | 30–40s each | Keep torso stable
+30/07/26 | Overhead triceps stretch | None | 30–40s each | Elbows close to head
+30/07/26 | Child’s pose | None | 30–40s | Hands stretched forward
